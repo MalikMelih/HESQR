@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oz9Ol9876iv+7TIxPf9bg78A0PjrJItc5Lr3sc5/8FHsWgxdjLzIGoJ4TrELIWrkaBWC+GAEBYrwYnqRCazfQA==",
+  "success": true,
+  "projectFilePath": "E:\\HES QR Project\\HesCodeQr\\HesCodeQr\\HesCodeQr.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MalikMelih\\.nuget\\packages\\zxing.net\\0.16.6\\zxing.net.0.16.6.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,35 @@
+C:\Users\MalikMelih\source\repos\HesCodeQr\HesCodeQr\bin\Debug\netcoreapp3.1\HesCodeQr.exe
+C:\Users\MalikMelih\source\repos\HesCodeQr\HesCodeQr\bin\Debug\netcoreapp3.1\HesCodeQr.deps.json
+C:\Users\MalikMelih\source\repos\HesCodeQr\HesCodeQr\bin\Debug\netcoreapp3.1\HesCodeQr.runtimeconfig.json
+C:\Users\MalikMelih\source\repos\HesCodeQr\HesCodeQr\bin\Debug\netcoreapp3.1\HesCodeQr.runtimeconfig.dev.json
+C:\Users\MalikMelih\source\repos\HesCodeQr\HesCodeQr\bin\Debug\netcoreapp3.1\HesCodeQr.dll
+C:\Users\MalikMelih\source\repos\HesCodeQr\HesCodeQr\bin\Debug\netcoreapp3.1\HesCodeQr.pdb
+C:\Users\MalikMelih\source\repos\HesCodeQr\HesCodeQr\bin\Debug\netcoreapp3.1\zxing.dll
+C:\Users\MalikMelih\source\repos\HesCodeQr\HesCodeQr\obj\Debug\netcoreapp3.1\HesCodeQr.csprojAssemblyReference.cache
+C:\Users\MalikMelih\source\repos\HesCodeQr\HesCodeQr\obj\Debug\netcoreapp3.1\HesCodeQr.Form1.resources
+C:\Users\MalikMelih\source\repos\HesCodeQr\HesCodeQr\obj\Debug\netcoreapp3.1\HesCodeQr.csproj.GenerateResource.cache
+C:\Users\MalikMelih\source\repos\HesCodeQr\HesCodeQr\obj\Debug\netcoreapp3.1\HesCodeQr.AssemblyInfoInputs.cache
+C:\Users\MalikMelih\source\repos\HesCodeQr\HesCodeQr\obj\Debug\netcoreapp3.1\HesCodeQr.AssemblyInfo.cs
+C:\Users\MalikMelih\source\repos\HesCodeQr\HesCodeQr\obj\Debug\netcoreapp3.1\HesCodeQr.csproj.CoreCompileInputs.cache
+C:\Users\MalikMelih\source\repos\HesCodeQr\HesCodeQr\obj\Debug\netcoreapp3.1\HesCodeQr.csproj.CopyComplete
+C:\Users\MalikMelih\source\repos\HesCodeQr\HesCodeQr\obj\Debug\netcoreapp3.1\HesCodeQr.dll
+C:\Users\MalikMelih\source\repos\HesCodeQr\HesCodeQr\obj\Debug\netcoreapp3.1\HesCodeQr.pdb
+C:\Users\MalikMelih\source\repos\HesCodeQr\HesCodeQr\obj\Debug\netcoreapp3.1\HesCodeQr.genruntimeconfig.cache
+E:\HES QR Project\HesCodeQr\HesCodeQr\bin\Debug\netcoreapp3.1\HesCodeQr.exe
+E:\HES QR Project\HesCodeQr\HesCodeQr\bin\Debug\netcoreapp3.1\HesCodeQr.deps.json
+E:\HES QR Project\HesCodeQr\HesCodeQr\bin\Debug\netcoreapp3.1\HesCodeQr.runtimeconfig.json
+E:\HES QR Project\HesCodeQr\HesCodeQr\bin\Debug\netcoreapp3.1\HesCodeQr.runtimeconfig.dev.json
+E:\HES QR Project\HesCodeQr\HesCodeQr\bin\Debug\netcoreapp3.1\HesCodeQr.dll
+E:\HES QR Project\HesCodeQr\HesCodeQr\bin\Debug\netcoreapp3.1\HesCodeQr.pdb
+E:\HES QR Project\HesCodeQr\HesCodeQr\bin\Debug\netcoreapp3.1\zxing.dll
+E:\HES QR Project\HesCodeQr\HesCodeQr\obj\Debug\netcoreapp3.1\HesCodeQr.csprojAssemblyReference.cache
+E:\HES QR Project\HesCodeQr\HesCodeQr\obj\Debug\netcoreapp3.1\HesCodeQr.Form1.resources
+E:\HES QR Project\HesCodeQr\HesCodeQr\obj\Debug\netcoreapp3.1\HesCodeQr.csproj.GenerateResource.cache
+E:\HES QR Project\HesCodeQr\HesCodeQr\obj\Debug\netcoreapp3.1\HesCodeQr.AssemblyInfoInputs.cache
+E:\HES QR Project\HesCodeQr\HesCodeQr\obj\Debug\netcoreapp3.1\HesCodeQr.AssemblyInfo.cs
+E:\HES QR Project\HesCodeQr\HesCodeQr\obj\Debug\netcoreapp3.1\HesCodeQr.csproj.CoreCompileInputs.cache
+E:\HES QR Project\HesCodeQr\HesCodeQr\obj\Debug\netcoreapp3.1\HesCodeQr.csproj.CopyComplete
+E:\HES QR Project\HesCodeQr\HesCodeQr\obj\Debug\netcoreapp3.1\HesCodeQr.dll
+E:\HES QR Project\HesCodeQr\HesCodeQr\obj\Debug\netcoreapp3.1\HesCodeQr.pdb
+E:\HES QR Project\HesCodeQr\HesCodeQr\obj\Debug\netcoreapp3.1\HesCodeQr.genruntimeconfig.cache
+E:\HES QR Project\HesCodeQr\HesCodeQr\obj\Debug\netcoreapp3.1\HesCodeQr.Properties.Resources.resources
