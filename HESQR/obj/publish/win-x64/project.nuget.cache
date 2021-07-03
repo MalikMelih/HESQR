@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "4JAw9v6UUhQ8ofIuXeyzheDRkOaYUNSEIs2u1cXBza/u3ibm7figgCLzfZxLbi4CXubduoywjQPjWDdxez8pRw==",
+  "success": true,
+  "projectFilePath": "E:\\HES QR Project\\HESQR\\HESQR\\HESQR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MalikMelih\\.nuget\\packages\\barcode\\2021.6.3\\barcode.2021.6.3.nupkg.sha512",
+    "C:\\Users\\MalikMelih\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\MalikMelih\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\MalikMelih\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
+    "C:\\Users\\MalikMelih\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.16\\microsoft.netcore.app.runtime.win-x64.3.1.16.nupkg.sha512",
+    "C:\\Users\\MalikMelih\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.16\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.16.nupkg.sha512",
+    "C:\\Users\\MalikMelih\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.16\\microsoft.aspnetcore.app.runtime.win-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,2 @@
+E:\HES QR Project\HESQR\HESQR\bin\Release\netcoreapp3.1\publish\HESQR.pdb
+E:\HES QR Project\HESQR\HESQR\bin\Release\netcoreapp3.1\publish\HESQR.exe
