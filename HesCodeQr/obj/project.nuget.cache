@@ -1,10 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "oz9Ol9876iv+7TIxPf9bg78A0PjrJItc5Lr3sc5/8FHsWgxdjLzIGoJ4TrELIWrkaBWC+GAEBYrwYnqRCazfQA==",
+  "dgSpecHash": "ntTVJ1mcAVfX5PhxFYisQAmajyY8ZjKz3wImSxNfZQmXup7TqhfCQ9LkO6RZsL9BNic2NLHuvV0unqthktA3yQ==",
   "success": true,
-  "projectFilePath": "E:\\HES QR Project\\HesCodeQr\\HesCodeQr\\HesCodeQr.csproj",
+  "projectFilePath": "D:\\Windows\\Users\\MalikMelih\\Desktop\\MalikMelih\\Melih-HESQR\\HesCodeQr\\HesCodeQr\\HesCodeQr.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\MalikMelih\\.nuget\\packages\\metromodernui\\1.4.0\\metromodernui.1.4.0.nupkg.sha512",
     "C:\\Users\\MalikMelih\\.nuget\\packages\\zxing.net\\0.16.6\\zxing.net.0.16.6.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'MetroModernUI 1.4.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "MetroModernUI",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }

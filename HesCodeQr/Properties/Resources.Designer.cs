@@ -63,9 +63,39 @@ namespace HesCodeQr.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap sb {
+        internal static System.Drawing.Bitmap ahlpark_logo_light {
             get {
-                object obj = ResourceManager.GetObject("sb", resourceCulture);
+                object obj = ResourceManager.GetObject("ahlpark_logo_light", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap logo_isim_darkgray {
+            get {
+                object obj = ResourceManager.GetObject("logo-isim-darkgray", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap logo_lg {
+            get {
+                object obj = ResourceManager.GetObject("logo-lg", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap logo_seffaf_isim_800x275 {
+            get {
+                object obj = ResourceManager.GetObject("logo-seffaf-isim-800x275", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

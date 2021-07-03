@@ -2,6 +2,19 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
+      "MetroModernUI/1.4.0": {
+        "type": "package",
+        "compile": {
+          "lib/net/MetroFramework.Design.dll": {},
+          "lib/net/MetroFramework.Fonts.dll": {},
+          "lib/net/MetroFramework.dll": {}
+        },
+        "runtime": {
+          "lib/net/MetroFramework.Design.dll": {},
+          "lib/net/MetroFramework.Fonts.dll": {},
+          "lib/net/MetroFramework.dll": {}
+        }
+      },
       "ZXing.Net/0.16.6": {
         "type": "package",
         "compile": {
@@ -14,6 +27,20 @@
     }
   },
   "libraries": {
+    "MetroModernUI/1.4.0": {
+      "sha512": "p2F3w8bF1tb0tpkDceEVO65UYMKnJxdQyNxVyl/OjrFZHighicLYZDppKkiqmvBZ10XUi2mqHiIJUzXBP3GElQ==",
+      "type": "package",
+      "path": "metromodernui/1.4.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net/MetroFramework.Design.dll",
+        "lib/net/MetroFramework.Fonts.dll",
+        "lib/net/MetroFramework.dll",
+        "metromodernui.1.4.0.nupkg.sha512",
+        "metromodernui.nuspec"
+      ]
+    },
     "ZXing.Net/0.16.6": {
       "sha512": "0+6EcJ7Ve1BocwqvqpAmgMa7xF3wxqROcM3KvAE6WGNIqXLA5YEziLjRX+kKYVrcttlFRz1IaoRSzt/o6Ttviw==",
       "type": "package",
@@ -93,6 +120,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "MetroModernUI >= 1.4.0",
       "ZXing.Net >= 0.16.6"
     ]
   },
@@ -102,13 +130,13 @@
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "restore": {
-      "projectUniqueName": "E:\\HES QR Project\\HesCodeQr\\HesCodeQr\\HesCodeQr.csproj",
+      "projectUniqueName": "D:\\Windows\\Users\\MalikMelih\\Desktop\\MalikMelih\\Melih-HESQR\\HesCodeQr\\HesCodeQr\\HesCodeQr.csproj",
       "projectName": "HesCodeQr",
-      "projectPath": "E:\\HES QR Project\\HesCodeQr\\HesCodeQr\\HesCodeQr.csproj",
+      "projectPath": "D:\\Windows\\Users\\MalikMelih\\Desktop\\MalikMelih\\Melih-HESQR\\HesCodeQr\\HesCodeQr\\HesCodeQr.csproj",
       "packagesPath": "C:\\Users\\MalikMelih\\.nuget\\packages\\",
-      "outputPath": "E:\\HES QR Project\\HesCodeQr\\HesCodeQr\\obj\\",
+      "outputPath": "D:\\Windows\\Users\\MalikMelih\\Desktop\\MalikMelih\\Melih-HESQR\\HesCodeQr\\HesCodeQr\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -143,6 +171,10 @@
       "netcoreapp3.1": {
         "targetAlias": "netcoreapp3.1",
         "dependencies": {
+          "MetroModernUI": {
+            "target": "Package",
+            "version": "[1.4.0, )"
+          },
           "ZXing.Net": {
             "target": "Package",
             "version": "[0.16.6, )"
@@ -169,5 +201,17 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'MetroModernUI 1.4.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "MetroModernUI",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }

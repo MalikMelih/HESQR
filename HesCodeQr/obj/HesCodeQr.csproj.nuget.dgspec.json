@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\HES QR Project\\HesCodeQr\\HesCodeQr\\HesCodeQr.csproj": {}
+    "D:\\Windows\\Users\\MalikMelih\\Desktop\\MalikMelih\\Melih-HESQR\\HesCodeQr\\HesCodeQr\\HesCodeQr.csproj": {}
   },
   "projects": {
-    "E:\\HES QR Project\\HesCodeQr\\HesCodeQr\\HesCodeQr.csproj": {
-      "version": "1.0.0",
+    "D:\\Windows\\Users\\MalikMelih\\Desktop\\MalikMelih\\Melih-HESQR\\HesCodeQr\\HesCodeQr\\HesCodeQr.csproj": {
+      "version": "1.1.0",
       "restore": {
-        "projectUniqueName": "E:\\HES QR Project\\HesCodeQr\\HesCodeQr\\HesCodeQr.csproj",
+        "projectUniqueName": "D:\\Windows\\Users\\MalikMelih\\Desktop\\MalikMelih\\Melih-HESQR\\HesCodeQr\\HesCodeQr\\HesCodeQr.csproj",
         "projectName": "HesCodeQr",
-        "projectPath": "E:\\HES QR Project\\HesCodeQr\\HesCodeQr\\HesCodeQr.csproj",
+        "projectPath": "D:\\Windows\\Users\\MalikMelih\\Desktop\\MalikMelih\\Melih-HESQR\\HesCodeQr\\HesCodeQr\\HesCodeQr.csproj",
         "packagesPath": "C:\\Users\\MalikMelih\\.nuget\\packages\\",
-        "outputPath": "E:\\HES QR Project\\HesCodeQr\\HesCodeQr\\obj\\",
+        "outputPath": "D:\\Windows\\Users\\MalikMelih\\Desktop\\MalikMelih\\Melih-HESQR\\HesCodeQr\\HesCodeQr\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -46,6 +46,10 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "MetroModernUI": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
             "ZXing.Net": {
               "target": "Package",
               "version": "[0.16.6, )"

@@ -7,7 +7,7 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {},
     ".NETCoreApp,Version=v3.1/win-x64": {
-      "HesCodeQr/1.0.0": {
+      "HesCodeQr/1.1.0": {
         "dependencies": {
           "ZXing.Net": "0.16.6",
           "runtimepack.Microsoft.NETCore.App.Runtime.win-x64": "3.1.16",
@@ -688,7 +688,7 @@
     }
   },
   "libraries": {
-    "HesCodeQr/1.0.0": {
+    "HesCodeQr/1.1.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,0 +1,2 @@
+D:\Windows\Users\MalikMelih\Desktop\MalikMelih\Melih-HESQR\HesCodeQr\HesCodeQr\bin\Release\netcoreapp3.1\publish\HesCodeQr.pdb
+D:\Windows\Users\MalikMelih\Desktop\MalikMelih\Melih-HESQR\HesCodeQr\HesCodeQr\bin\Release\netcoreapp3.1\publish\HesCodeQr.exe

@@ -15,3 +15,45 @@ E:\HES QR Project\HesCodeQr\HesCodeQr\obj\Release\netcoreapp3.1\HesCodeQr.csproj
 E:\HES QR Project\HesCodeQr\HesCodeQr\obj\Release\netcoreapp3.1\HesCodeQr.dll
 E:\HES QR Project\HesCodeQr\HesCodeQr\obj\Release\netcoreapp3.1\HesCodeQr.pdb
 E:\HES QR Project\HesCodeQr\HesCodeQr\obj\Release\netcoreapp3.1\HesCodeQr.genruntimeconfig.cache
+C:\Users\DELL\Desktop\HesCodeQr\HesCodeQr\bin\Release\netcoreapp3.1\HesCodeQr.exe
+C:\Users\DELL\Desktop\HesCodeQr\HesCodeQr\bin\Release\netcoreapp3.1\HesCodeQr.deps.json
+C:\Users\DELL\Desktop\HesCodeQr\HesCodeQr\bin\Release\netcoreapp3.1\HesCodeQr.runtimeconfig.json
+C:\Users\DELL\Desktop\HesCodeQr\HesCodeQr\bin\Release\netcoreapp3.1\HesCodeQr.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\HesCodeQr\HesCodeQr\bin\Release\netcoreapp3.1\HesCodeQr.dll
+C:\Users\DELL\Desktop\HesCodeQr\HesCodeQr\bin\Release\netcoreapp3.1\HesCodeQr.pdb
+C:\Users\DELL\Desktop\HesCodeQr\HesCodeQr\bin\Release\netcoreapp3.1\zxing.dll
+C:\Users\DELL\Desktop\HesCodeQr\HesCodeQr\obj\Release\netcoreapp3.1\HesCodeQr.Form1.resources
+C:\Users\DELL\Desktop\HesCodeQr\HesCodeQr\obj\Release\netcoreapp3.1\HesCodeQr.Properties.Resources.resources
+C:\Users\DELL\Desktop\HesCodeQr\HesCodeQr\obj\Release\netcoreapp3.1\HesCodeQr.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\HesCodeQr\HesCodeQr\obj\Release\netcoreapp3.1\HesCodeQr.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\HesCodeQr\HesCodeQr\obj\Release\netcoreapp3.1\HesCodeQr.AssemblyInfo.cs
+C:\Users\DELL\Desktop\HesCodeQr\HesCodeQr\obj\Release\netcoreapp3.1\HesCodeQr.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\HesCodeQr\HesCodeQr\obj\Release\netcoreapp3.1\HesCodeQr.csproj.CopyComplete
+C:\Users\DELL\Desktop\HesCodeQr\HesCodeQr\obj\Release\netcoreapp3.1\HesCodeQr.dll
+C:\Users\DELL\Desktop\HesCodeQr\HesCodeQr\obj\Release\netcoreapp3.1\HesCodeQr.pdb
+C:\Users\DELL\Desktop\HesCodeQr\HesCodeQr\obj\Release\netcoreapp3.1\HesCodeQr.genruntimeconfig.cache
+C:\Users\DELL\Desktop\HesCodeQr\HesCodeQr\obj\Release\netcoreapp3.1\HesCodeQr.csproj.AssemblyReference.cache
+D:\Windows\Users\MalikMelih\Desktop\MalikMelih\Melih-HESQR\HesCodeQr\HesCodeQr\bin\Release\netcoreapp3.1\HesCodeQr.exe
+D:\Windows\Users\MalikMelih\Desktop\MalikMelih\Melih-HESQR\HesCodeQr\HesCodeQr\bin\Release\netcoreapp3.1\AlpemixCM.exe
+D:\Windows\Users\MalikMelih\Desktop\MalikMelih\Melih-HESQR\HesCodeQr\HesCodeQr\bin\Release\netcoreapp3.1\HesCodeQr.deps.json
+D:\Windows\Users\MalikMelih\Desktop\MalikMelih\Melih-HESQR\HesCodeQr\HesCodeQr\bin\Release\netcoreapp3.1\HesCodeQr.runtimeconfig.json
+D:\Windows\Users\MalikMelih\Desktop\MalikMelih\Melih-HESQR\HesCodeQr\HesCodeQr\bin\Release\netcoreapp3.1\HesCodeQr.runtimeconfig.dev.json
+D:\Windows\Users\MalikMelih\Desktop\MalikMelih\Melih-HESQR\HesCodeQr\HesCodeQr\bin\Release\netcoreapp3.1\HesCodeQr.dll
+D:\Windows\Users\MalikMelih\Desktop\MalikMelih\Melih-HESQR\HesCodeQr\HesCodeQr\bin\Release\netcoreapp3.1\HesCodeQr.pdb
+D:\Windows\Users\MalikMelih\Desktop\MalikMelih\Melih-HESQR\HesCodeQr\HesCodeQr\bin\Release\netcoreapp3.1\zxing.dll
+D:\Windows\Users\MalikMelih\Desktop\MalikMelih\Melih-HESQR\HesCodeQr\HesCodeQr\obj\Release\netcoreapp3.1\HesCodeQr.csprojAssemblyReference.cache
+D:\Windows\Users\MalikMelih\Desktop\MalikMelih\Melih-HESQR\HesCodeQr\HesCodeQr\obj\Release\netcoreapp3.1\HesCodeQr.Detail.resources
+D:\Windows\Users\MalikMelih\Desktop\MalikMelih\Melih-HESQR\HesCodeQr\HesCodeQr\obj\Release\netcoreapp3.1\HesCodeQr.Form1.resources
+D:\Windows\Users\MalikMelih\Desktop\MalikMelih\Melih-HESQR\HesCodeQr\HesCodeQr\obj\Release\netcoreapp3.1\HesCodeQr.Properties.Resources.resources
+D:\Windows\Users\MalikMelih\Desktop\MalikMelih\Melih-HESQR\HesCodeQr\HesCodeQr\obj\Release\netcoreapp3.1\HesCodeQr.SplashScreen.resources
+D:\Windows\Users\MalikMelih\Desktop\MalikMelih\Melih-HESQR\HesCodeQr\HesCodeQr\obj\Release\netcoreapp3.1\HesCodeQr.csproj.GenerateResource.cache
+D:\Windows\Users\MalikMelih\Desktop\MalikMelih\Melih-HESQR\HesCodeQr\HesCodeQr\obj\Release\netcoreapp3.1\HesCodeQr.AssemblyInfoInputs.cache
+D:\Windows\Users\MalikMelih\Desktop\MalikMelih\Melih-HESQR\HesCodeQr\HesCodeQr\obj\Release\netcoreapp3.1\HesCodeQr.AssemblyInfo.cs
+D:\Windows\Users\MalikMelih\Desktop\MalikMelih\Melih-HESQR\HesCodeQr\HesCodeQr\obj\Release\netcoreapp3.1\HesCodeQr.csproj.CoreCompileInputs.cache
+D:\Windows\Users\MalikMelih\Desktop\MalikMelih\Melih-HESQR\HesCodeQr\HesCodeQr\obj\Release\netcoreapp3.1\HesCodeQr.csproj.CopyComplete
+D:\Windows\Users\MalikMelih\Desktop\MalikMelih\Melih-HESQR\HesCodeQr\HesCodeQr\obj\Release\netcoreapp3.1\HesCodeQr.dll
+D:\Windows\Users\MalikMelih\Desktop\MalikMelih\Melih-HESQR\HesCodeQr\HesCodeQr\obj\Release\netcoreapp3.1\HesCodeQr.pdb
+D:\Windows\Users\MalikMelih\Desktop\MalikMelih\Melih-HESQR\HesCodeQr\HesCodeQr\obj\Release\netcoreapp3.1\HesCodeQr.genruntimeconfig.cache
+D:\Windows\Users\MalikMelih\Desktop\MalikMelih\Melih-HESQR\HesCodeQr\HesCodeQr\bin\Release\netcoreapp3.1\MetroFramework.Design.dll
+D:\Windows\Users\MalikMelih\Desktop\MalikMelih\Melih-HESQR\HesCodeQr\HesCodeQr\bin\Release\netcoreapp3.1\MetroFramework.Fonts.dll
+D:\Windows\Users\MalikMelih\Desktop\MalikMelih\Melih-HESQR\HesCodeQr\HesCodeQr\bin\Release\netcoreapp3.1\MetroFramework.dll

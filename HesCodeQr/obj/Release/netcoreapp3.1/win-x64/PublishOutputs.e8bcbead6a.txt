@@ -1,0 +1,10 @@
+D:\Windows\Users\MalikMelih\Desktop\MalikMelih\Melih-HESQR\HesCodeQr\HesCodeQr\bin\publish\AlpemixCM.exe
+D:\Windows\Users\MalikMelih\Desktop\MalikMelih\Melih-HESQR\HesCodeQr\HesCodeQr\bin\publish\HesCodeQr.exe
+D:\Windows\Users\MalikMelih\Desktop\MalikMelih\Melih-HESQR\HesCodeQr\HesCodeQr\bin\publish\HesCodeQr.dll
+D:\Windows\Users\MalikMelih\Desktop\MalikMelih\Melih-HESQR\HesCodeQr\HesCodeQr\bin\publish\HesCodeQr.deps.json
+D:\Windows\Users\MalikMelih\Desktop\MalikMelih\Melih-HESQR\HesCodeQr\HesCodeQr\bin\publish\HesCodeQr.runtimeconfig.json
+D:\Windows\Users\MalikMelih\Desktop\MalikMelih\Melih-HESQR\HesCodeQr\HesCodeQr\bin\publish\HesCodeQr.pdb
+D:\Windows\Users\MalikMelih\Desktop\MalikMelih\Melih-HESQR\HesCodeQr\HesCodeQr\bin\publish\MetroFramework.Design.dll
+D:\Windows\Users\MalikMelih\Desktop\MalikMelih\Melih-HESQR\HesCodeQr\HesCodeQr\bin\publish\MetroFramework.Fonts.dll
+D:\Windows\Users\MalikMelih\Desktop\MalikMelih\Melih-HESQR\HesCodeQr\HesCodeQr\bin\publish\MetroFramework.dll
+D:\Windows\Users\MalikMelih\Desktop\MalikMelih\Melih-HESQR\HesCodeQr\HesCodeQr\bin\publish\zxing.dll

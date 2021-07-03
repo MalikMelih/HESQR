@@ -4,9 +4,37 @@
     <OutputType>WinExe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationIcon>logo.ico</ApplicationIcon>
+    <PackageIcon>ahlpark_logo_light.png</PackageIcon>
+    <PackageIconUrl />
+    <Authors>Malik Melih HORAN</Authors>
+    <Product>HesCodeQr</Product>
+    <PackageId>HesCodeQr</PackageId>
+    <AssemblyName>HesCodeQr</AssemblyName>
+    <RootNamespace>HesCodeQr</RootNamespace>
+    <Version>1.1.0</Version>
+    <Company>MalikMelih</Company>
+    <Copyright>Copyright @ 2021, malikmelih.com All Rights reserved</Copyright>
+    <PackageLicenseFile>license.txt</PackageLicenseFile>
+    <NeutralLanguage>tr-TR</NeutralLanguage>
+    <PackageReleaseNotes>Added splash screen, version, license, support desk and created tag counts.</PackageReleaseNotes>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>MalikMelih.pfx</AssemblyOriginatorKeyFile>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="AlpemixCM.exe" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="AlpemixCM.exe">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MetroModernUI" Version="1.4.0" />
     <PackageReference Include="ZXing.Net" Version="0.16.6" />
   </ItemGroup>
 
@@ -16,6 +44,11 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <Compile Update="Properties\Settings.Designer.cs">
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
   </ItemGroup>
 
   <ItemGroup>
@@ -23,6 +56,24 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="AlpemixCMX.exe">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="license.txt">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+    <None Include="Resources\ahlpark_logo_light.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
   </ItemGroup>
 
 </Project>

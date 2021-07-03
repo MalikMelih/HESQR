@@ -1,0 +1,2 @@
+C:\Users\DELL\Desktop\HesCodeQr\HesCodeQr\bin\Release\netcoreapp3.1\publish\HesCodeQr.pdb
+C:\Users\DELL\Desktop\HesCodeQr\HesCodeQr\bin\Release\netcoreapp3.1\publish\HesCodeQr.exe
