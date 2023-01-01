@@ -12,6 +12,9 @@ Sistemin Avantajları;
 
 * Sistem hakkında herhangi bir soru veya istekleriniz için anlık olarak uygulama üzerinden yardım talep edebilir ve firmanıza özel kişiselleştirmeler isteyebilirsiniz.
 
-Örnek şirket için yapılmış uygulamayı yükleyerek inceleyebilirsiniz.
+
+Örnek şirket için yapılmış proje afişi aşağıda belirtilmiştir. Uygulamayı link üzerinden yükleyerek inceleyebilirsiniz.
 
 https://malikmelih.com/hesqr
+
+![ahlpark-hesqr](https://user-images.githubusercontent.com/54374012/210164666-c9b087e9-373d-460e-8259-bea6f7e2a745.jpg)
